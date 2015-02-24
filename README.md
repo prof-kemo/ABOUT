@@ -17,10 +17,10 @@ a.k.a.:	Masaaki 'Mario' BEPPU
 * Rサーバ
 
 ## なう
-* ルータと踊る
+* IPsec
+* nginx
 * あれ
 
 ## 色々
 
-* TGS 2013
-* NABSHOW 2014
+* NABSHOW 2015
