@@ -4,7 +4,7 @@
 うっかり見ちゃった人向け
 
 Name:	Prof. kemo  
-a.k.a.:	Masaaki 'Mario' BEPPU  
+a.k.a.:	Masaaki 'kemo' BEPPU  
 
 最近はエンタメ方面が主戦場なエンジニア  
 専門はネットワーク  
@@ -14,13 +14,15 @@ a.k.a.:	Masaaki 'Mario' BEPPU
 ## やりたい/やらないと… な予定
 * KRFサイトリニューアル
 * ニコラスLIB PHP -> Python
-* Rサーバ
+* オンプレ縮小活動
 
 ## なう
-* IPsec
-* nginx
+* IPv6と戯れる
+* JUNOS美味しい
 * あれ
 
 ## 色々
 
-* NABSHOW 2015
+* NABSHOW 2019
+* CeBIT 2019
+* IFA 2019
